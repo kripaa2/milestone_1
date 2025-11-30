@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Vercel link:
@@ -12,3 +13,6 @@ app
  5.components
   >header,footer,headerstyle,openinghours,chefsection-reusable components
   >blogcard,popularcard,contactcard,shopcard,menucard-UI card components
+=======
+# milestone_1
+>>>>>>> ba4a6a502093161666427a53a0ec5a115eeffd4e
